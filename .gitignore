@@ -1,5 +1,7 @@
 # Ignorar todo en la carpeta pizza_steak
 Computer_Vision/pizza_steak/
+Computer_Vision/10_food_classes_all_data/
 
 # Ignorar zip
 Computer_Vision/pizza_steak.zip
+Computer_Vision/10_food_classes_all_data.zip
