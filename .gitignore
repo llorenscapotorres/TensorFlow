@@ -1,7 +1,9 @@
-# Ignorar todo en la carpeta pizza_steak
+# Ignorar todo en carpetas con imágenes 
 Computer_Vision/pizza_steak/
 Computer_Vision/10_food_classes_all_data/
+Transfer_Learning/10_food_classes_10_percent/
 
 # Ignorar zip
 Computer_Vision/pizza_steak.zip
 Computer_Vision/10_food_classes_all_data.zip
+Transfer_Learning/10_food_classes_10_percent.zip
