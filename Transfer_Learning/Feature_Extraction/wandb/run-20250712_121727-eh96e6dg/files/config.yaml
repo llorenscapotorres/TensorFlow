@@ -1,0 +1,56 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            fhmf6kgkcrr83sfytyfoccv0tkwa9r6d:
+                codePath: Transfer_Learning\Feature_Extraction\04_transfer_learning_feature_extraction.ipynb
+                codePathLocal: 04_transfer_learning_feature_extraction.ipynb
+                cpu_count: 10
+                cpu_count_logical: 16
+                cudaVersion: "12.8"
+                disk:
+                    /:
+                        total: "1023388151808"
+                        used: "333527318528"
+                email: llorenscapo2001@gmail.com
+                executable: c:\Users\Usuario\anaconda3\envs\tf3\python.exe
+                git:
+                    commit: 6fd890ea8684ec8784ef53ef96d79222fe6e3139
+                    remote: https://github.com/llorenscapotorres/TensorFlow.git
+                gpu: NVIDIA GeForce RTX 4060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA GeForce RTX 4060 Laptop GPU
+                      uuid: GPU-fb390453-c353-d02f-eabc-378b0cc68556
+                host: DESKTOP-F0BD6E1
+                memory:
+                    total: "16788795392"
+                os: Windows-10-10.0.26100-SP0
+                program: c:\Users\Usuario\Documents\ML_Projects\TensorFlow\Transfer_Learning\Feature_Extraction\04_transfer_learning_feature_extraction.ipynb
+                python: CPython 3.10.18
+                root: c:\Users\Usuario\Documents\ML_Projects\TensorFlow\Transfer_Learning\Feature_Extraction
+                startedAt: "2025-07-12T10:17:27.111563Z"
+                writerId: fhmf6kgkcrr83sfytyfoccv0tkwa9r6d
+        m: []
+        python_version: 3.10.18
+        t:
+            "1":
+                - 2
+                - 3
+            "2":
+                - 2
+                - 3
+            "3":
+                - 2
+                - 13
+            "4": 3.10.18
+            "5": 0.21.0
+            "8":
+                - 1
+                - 2
+                - 3
+            "12": 0.21.0
+            "13": windows-amd64
