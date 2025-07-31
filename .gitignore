@@ -5,6 +5,7 @@ Transfer_Learning/Feature_Extraction/10_food_classes_10_percent/
 Transfer_Learning/Feature_Extraction/datasets/
 Transfer_Learning/Fine_Tuning/10_food_classes_10_percent/
 Transfer_Learning/Fine_Tuning/10_food_classes_1_percent/
+Transfer_Learning/Fine_Tuning/10_food_classes_all_data/
 
 # Ignorar zip
 Computer_Vision/pizza_steak.zip
